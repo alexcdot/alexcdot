@@ -2,7 +2,7 @@
 
 # Alex Cui
 
-I am Alex Cui, a machine learning and backend engineer interested in creating a better tomorrow! Currently, I'm a senior at Caltech studying Computer Science and Data Science. <br/>
+I'm a machine learning and backend engineer interested in creating a better tomorrow! Currently, I studying Computer Science and Data Science at Caltech. <br/>
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Falexcdot46%2Falexcdot" alt="Hits">
 
