@@ -5,7 +5,7 @@
 I'm a machine learning and backend engineer interested in autonomy for robotics, biochemistry, and more. Currently, I studying Computer Science and Data Science at Caltech. <br/>
 
 - ⚡ Fun fact: I beatbox, yoyo and do poi
-- 👯 Learn more about me at alexcui.ca
+- 👯 Learn more about me at [alexcui.ca](https://alexcui.ca)
 - 😄 Pronouns: He/Him
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Falexcdot46%2Falexcdot" alt="Hits">
