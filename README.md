@@ -2,7 +2,7 @@
 
 # Alex Cui
 
-I'm a machine learning and backend engineer interested in autonomy for robotics, biochemistry, and more. Currently, I studying Computer Science and Data Science at Caltech. <br/>
+I'm a research scientist at Waabi, building autonomous trucks. I'm also doing a master's at University of Toronto, and studied Computer Science and Data Science at Caltech. <br/>
 
 - ⚡ Fun fact: I beatbox, yoyo and do poi
 - 👯 Learn more about me at [alexcui.ca](https://alexcui.ca)
