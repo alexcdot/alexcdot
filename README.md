@@ -4,7 +4,7 @@
 
 I'm the CTO of [GPTZero](https://gptzero.me).
 
-Previously, I was a research scientist at Waabi, building autonomous trucks. I finished my master's in CS, and dropped out of my PhD at University of Toronto, and I studied Computer Science and Data Science at Caltech. <br/>
+Previously, I was a research scientist at Waabi, building autonomous trucks. I finished my master's in CS, dropped out of my PhD at University of Toronto, and I studied Computer Science and Data Science at Caltech. <br/>
 
 - ⚡ Fun fact: I beatbox, yoyo and do poi
 - 👯 Learn more about me at [alexcui.ca](https://alexcui.ca)
