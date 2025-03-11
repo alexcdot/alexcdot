@@ -2,7 +2,7 @@
 
 # Alex Cui
 
-I'm the CTO of [GPTZero](https://gptzero.me).
+I'm the CTO and co-founder of [GPTZero](https://gptzero.me). We are [hiring](https://jobs.ashbyhq.com/GPTZero)!
 
 Previously, I was a research scientist at Waabi, building autonomous trucks. I finished my master's in CS, dropped out of my PhD at University of Toronto, and I studied Computer Science and Data Science at Caltech. <br/>
 
@@ -10,10 +10,7 @@ Previously, I was a research scientist at Waabi, building autonomous trucks. I f
 - 👯 Learn more about me at [alexcui.ca](https://alexcui.ca)
 - 😄 Pronouns: He/Him
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Falexcdot46%2Falexcdot" alt="Hits">
-
-
-[![Alex's Github Stats](https://github-readme-stats.vercel.app/api?username=alexcdot&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexcdot&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcdot&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
